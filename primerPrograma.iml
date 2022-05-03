@@ -10,7 +10,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../MissionJAVA-main/lib/imonsh.jar!/" />
+          <root url="jar://$MODULE_DIR$/src/lib/imonsh.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
