@@ -10,7 +10,7 @@ public class Ashe extends Champion implements AsheActionsCallbacks{
     @Override
     public void frostShot(Screen s) {
         s.setVisible(true);
-        s.out(showMessage(),"Helvetica",28, Colors.BlueHorizon);
+        s.out(showMessage(),"Helvetica",28,Colors.BlueHorizon);
         s.showImage("asheCombat.gif");
         s.setBounds(200,100,1100,980);
 
@@ -21,8 +21,8 @@ public class Ashe extends Champion implements AsheActionsCallbacks{
     public void hawShot(Screen s) {
         s.cls();
         s.repaint();
-        s.out(showMessage(),"Helvetica",28, Colors.BlueHorizon);
-        s.showImage("asheCombat.gif");
+        s.out(showMessage(),"Helvetica",28,Colors.BlueHorizon);
+        s.showImage("asheCombatTwo.gif");
         s.setBounds(200,100,1100,980);
     }
 
@@ -30,8 +30,8 @@ public class Ashe extends Champion implements AsheActionsCallbacks{
     public void rangerFocus(Screen s) {
         s.cls();
         s.repaint();
-        s.out(showMessage(),"Helvetica",28, Colors.BlueHorizon);
-        s.showImage("asheCombat.gif");
+        s.out(showMessage(),"Helvetica",28,Colors.BlueHorizon);
+        s.showImage("asheCombatThree.gif");
         s.setBounds(200,100,1100,980);
     }
 
@@ -39,8 +39,8 @@ public class Ashe extends Champion implements AsheActionsCallbacks{
     public void volley(Screen s) {
         s.cls();
         s.repaint();
-        s.out(showMessage(),"Helvetica",28, Colors.BlueHorizon);
-        s.showImage("asheCombat.gif");
+        s.out(showMessage(),"Helvetica",28,Colors.BlueHorizon);
+        s.showImage("asheCombatFour.gif");
         s.setBounds(200,100,1100,980);
     }
 
@@ -48,8 +48,8 @@ public class Ashe extends Champion implements AsheActionsCallbacks{
     public void crystalArrow(Screen s) {
         s.cls();
         s.repaint();
-        s.out(showMessage(),"Helvetica",28, Colors.BlueHorizon);
-        s.showImage("asheCombat.gif");
+        s.out(showMessage(),"Helvetica",28,Colors.BlueHorizon);
+        s.showImage("asheCombatFive.gif");
         s.setBounds(200,100,1100,980);
 
     }
