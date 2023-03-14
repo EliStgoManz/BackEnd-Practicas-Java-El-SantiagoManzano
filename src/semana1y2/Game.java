@@ -1,6 +1,6 @@
 package semana1y2;
 
-/*
+
 import java.awt.*;
 
 public class Game {
@@ -46,4 +46,4 @@ public class Game {
         attackAshe.start();
 
     }
-}*/
+}
