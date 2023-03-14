@@ -1,6 +1,6 @@
 package semana1y2;
 
-/*
+
 public class Ashe extends Champion implements AsheActionsCallbacks{
 
 
@@ -54,4 +54,4 @@ public class Ashe extends Champion implements AsheActionsCallbacks{
         s.setBounds(200,100,1100,980);
 
     }
-}*/
+}
